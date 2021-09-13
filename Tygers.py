@@ -1,3 +1,17 @@
+import time
 
-for _ in range(10):
-    print("Medicine close ,mac, four seasons, opera, kitchen = culture, burn out, usa sports clubs. 0 = 0 = O This means Tygers of Pan Tang/Haken..")
+
+t1 = time.time()
+
+x = "Tiesto the business"
+x1 = "Tygers of Pang Tang"
+x2 = "Haken"
+
+print("cool")
+print(bool(x1))
+print("The Mountain")
+
+
+t2 = time.time()
+t = t2 - t1
+print("Elapsed time is : ", t, " seconds")
